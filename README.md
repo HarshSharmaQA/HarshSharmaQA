@@ -43,7 +43,8 @@ Check out my **Postman collections** for GoRest API on GitHub.
 ---
 
 
-
+![Selenium Repo Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=plastic)
+---
 
 
 
