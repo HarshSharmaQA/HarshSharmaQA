@@ -121,7 +121,7 @@ Check out my **Postman collections** for GoRest API on GitHub.
 
 ## 📞 **Get in Touch**
 
-📧 **Email:** [harsh.sharma.sunil@gmail.com](mailto:harsh.sharma.sunil@gmail.com)  
+📧 **Email:** [harshsharmaqa@gmail.com](mailto:harshsharmaqa@gmail.com)  
 📱 **Phone:** +91 8347223122  
 🔗 **[LinkedIn](https://www.linkedin.com/in/harshsharmaqa/)**  
 ---
