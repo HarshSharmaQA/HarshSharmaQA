@@ -26,7 +26,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
 ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white) 
-![Cypress](https://img.shields.io/badge/cypress-%232d2d2d.svg?style=plastic&logo=cypress&logoColor=white) 
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white)
 
 ---
@@ -37,7 +36,7 @@ Check out my **Postman collections** for GoRest API on GitHub.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HarshSharmaQA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=HarshSharmaQA&theme=dark&hide_border=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=HarshSharmaQA&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSharmaQA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
@@ -50,10 +49,6 @@ Check out my **Postman collections** for GoRest API on GitHub.
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
----
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HarshSharmaQA&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
