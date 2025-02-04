@@ -42,10 +42,7 @@ Check out my **Postman collections** for GoRest API on GitHub.
 
 ---
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
----
 
 
 
@@ -127,6 +124,9 @@ Check out my **Postman collections** for GoRest API on GitHub.
 📧 **Email:** [harsh.sharma.sunil@gmail.com](mailto:harsh.sharma.sunil@gmail.com)  
 📱 **Phone:** +91 8347223122  
 🔗 **[LinkedIn](https://www.linkedin.com/in/harshsharmaqa/)**  
+---
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) 
 
 ---
 
