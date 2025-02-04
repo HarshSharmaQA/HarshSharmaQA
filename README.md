@@ -13,22 +13,32 @@
 <div align="center">
   <!-- Row 1 -->
   
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+  
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+  
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
+  
   ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white)  
+  
   ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white)  
 
   <!-- Row 2 -->
   ![TestNG](https://img.shields.io/badge/testng-%234B8BF7.svg?style=plastic&logo=testng&logoColor=white)  
+  
   ![Cucumber](https://img.shields.io/badge/cucumber-%23F79C42.svg?style=plastic&logo=cucumber&logoColor=white)  
+  
   ![JIRA](https://img.shields.io/badge/jira-%230A0A0A.svg?style=plastic&logo=jira&logoColor=white)  
-  ![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=plastic&logo=trello&logoColor=white)  
+  
+  ![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=plastic&logo=trello&logoColor=white) 
+  
   ![Zoho](https://img.shields.io/badge/zoho-%230077FF.svg?style=plastic&logo=zoho&logoColor=white)
 
   <!-- Row 3 -->
   ![Bugzilla](https://img.shields.io/badge/bugzilla-%23E10F00.svg?style=plastic&logo=bugzilla&logoColor=white)  
+
   ![Asana](https://img.shields.io/badge/asana-%236A4C93.svg?style=plastic&logo=asana&logoColor=white)  
+  
   ![Monday](https://img.shields.io/badge/monday-%23F5A623.svg?style=plastic&logo=monday&logoColor=white)
 </div>
 
