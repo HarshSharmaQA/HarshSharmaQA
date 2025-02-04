@@ -10,7 +10,6 @@
 ---
 ## 💻 Tech Stack & Tools:
 
-<div align="center">
   <!-- Row 1 -->
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)   
@@ -30,7 +29,7 @@
   ![Bugzilla](https://img.shields.io/badge/bugzilla-%23E10F00.svg?style=plastic&logo=bugzilla&logoColor=white)  
   ![Asana](https://img.shields.io/badge/asana-%236A4C93.svg?style=plastic&logo=asana&logoColor=white)  
   ![Monday](https://img.shields.io/badge/monday-%23F5A623.svg?style=plastic&logo=monday&logoColor=white)
-</div>
+
 
 
 ### 🔎 **Key Expertise:**
