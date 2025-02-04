@@ -113,7 +113,7 @@ Check out my **Postman collections** for GoRest API on GitHub.
 
 ## 📚 **Latest Blogs**
 
-📝 **[A Comprehensive Guide to HTTP Methods & Response Codes in POSTMAN](https://yourbloglink.com/postman-guide)**  
+📝 **[A Comprehensive Guide to HTTP Methods & Response Codes in POSTMAN](https://harshsharmaqa.online/blog%20detail.html?id=8f9A4ol4cft34QqVPja4)**  
 📝 **[Getting Started with Sketchware: A Beginner’s Guide](https://yourbloglink.com/sketchware)**  
 📝 **[Manual Testing: A Beginner’s Guide to Kickstart Your QA Career](https://yourbloglink.com/manual-testing)**  
 
