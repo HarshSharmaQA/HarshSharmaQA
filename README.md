@@ -12,11 +12,7 @@
 
   <!-- Row 1 -->
   
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)   
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)    
-  ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white)    
-  ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)   ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white)  
 
   <!-- Row 2 -->
   ![TestNG](https://img.shields.io/badge/testng-%234B8BF7.svg?style=plastic&logo=testng&logoColor=white)    
