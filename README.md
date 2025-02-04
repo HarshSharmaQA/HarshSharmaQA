@@ -115,7 +115,7 @@ Check out my **Postman collections** for GoRest API on GitHub.
 
 ## 📚 **Latest Blogs**
 - [A Comprehensive Guide to HTTP Methods (GET, POST, PUT, DELETE) and Response Codes in POSTMAN]([[https://harshsharmaqa.online/blogs/http-methods-response-codes-postman]) 
-- [Getting Started with Sketchware: A Beginner’s Guide](https://harshsharmaqa.online/blogs/sketchware-guide)
+- [Getting Started with Sketchware: A Beginner’s Guide to Mobile App Development]([(https://harshsharmaqa.online/blog%20detail.html?id=AgyAZWRK2muzcXvyCuw3))
 - [Manual Testing: A Beginner’s Guide to Kickstart Your QA Career](https://harshsharmaqa.online/blogs/manual-testing-guide)
 
 
