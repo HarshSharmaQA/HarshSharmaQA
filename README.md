@@ -20,15 +20,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshsharmaqa/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshsharmaqa@gmail.com) 
 
 ---
-
-## 💻 Tech Stack & Tools:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
-![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white) 
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white)
-
----
 ## 📚 Latest Projects & Resources
 
 ### [Postman Collections for GoRest API - GitHub Repository](https://github.com/HarshSharmaQA/postman-collections-gorest)
@@ -55,6 +46,16 @@ Check out my **Postman collections** for GoRest API on GitHub.
 [![](https://visitcount.itsvg.in/api?id=HarshSharmaQA&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ---
+## 💻 Tech Stack & Tools:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white) 
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white)
+
+---
+
+
 
 ## 💼 **Professional Experience**
 
