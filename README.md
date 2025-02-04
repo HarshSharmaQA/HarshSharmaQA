@@ -125,7 +125,7 @@ Check out my **Postman collections** for GoRest API on GitHub.
 📱 **Phone:** +91 8347223122  
 🔗 **[LinkedIn](https://www.linkedin.com/in/harshsharmaqa/)**  
 ---
-- [Project Repository](https://github.com/HarshSharmaQA/cmsMinds)
+- [Project Repository](https://github.com/HarshSharmaQA/Testcases)
 - [Website](https://cmsminds.com)
 ---
 ## ✍️ Random Dev Quote
