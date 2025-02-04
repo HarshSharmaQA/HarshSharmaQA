@@ -7,7 +7,8 @@
 
 ## 🚀 About Me
 🎯 **Experienced Manual Tester** with over **4+ years** of expertise in ensuring website quality and functionality. Passionate about delivering high-quality, error-free software solutions with seamless user experiences. 
----## 💻 Tech Stack & Tools:
+---
+## 💻 Tech Stack & Tools:
 <div align="center">
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)  
