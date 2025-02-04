@@ -30,6 +30,10 @@
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white)
 
 ---
+## 📚 Latest Projects & Resources
+
+### [Postman Collections for GoRest API - GitHub Repository](https://github.com/HarshSharmaQA/postman-collections-gorest)
+Check out my **Postman collections** for GoRest API on GitHub.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HarshSharmaQA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
