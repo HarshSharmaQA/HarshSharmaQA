@@ -27,7 +27,7 @@
 - 🔄 **Functional & Regression Testing**
 - 🌍 **Cross-Browser & Responsive Testing**
 - 🐞 **Bug Tracking & Reporting (JIRA)**
-- 🔗 **API Testing (Postman)**
+- 🔗 **API Testing (Postman) Basic**
 - ⚡ **Agile & Scrum Methodologies**
 
 ## 🌐 Socials:
@@ -83,7 +83,7 @@ Check out my **Postman collections** for GoRest API on GitHub.
 
 🎯 **Test Case Design & Execution**  
 📌 **Functional, Regression & Usability Testing**  
-🔗 **API Testing (Postman)**  
+🔗 **API Testing (Postman) Basic**  
 ⚡ **Agile & Scrum Methodologies**  
 🌍 **Cross-Browser & Responsive Testing**  
 🐞 **Bug Tracking (JIRA)**  
