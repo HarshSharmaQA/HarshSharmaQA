@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-🎯 **Experienced Manual Tester** with over **4+ years** of expertise in ensuring website quality and functionality. Passionate about delivering high-quality, error-free software solutions with seamless user experiences. 
+🎯 **Experienced Manual Tester** with over **5+ years** of expertise in ensuring website quality and functionality. Passionate about delivering high-quality, error-free software solutions with seamless user experiences. 
 ---
 ## 💻 Tech Stack & Tools:
 
