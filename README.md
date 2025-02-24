@@ -94,6 +94,12 @@
 
 ---
 
+## 💬 Chat Functionality
+🚀 **Stay connected and chat with me for discussions on QA, testing strategies, and industry insights!**
+📩 **Reach out via [LinkedIn](https://www.linkedin.com/in/harshsharmaqa/) or [Email](mailto:harshsharmaqa@gmail.com).**
+
+---
+
 ## 📞 Get in Touch
 📧 **Email:** [harshsharmaqa@gmail.com](mailto:harshsharmaqa@gmail.com)  
 📱 **Phone:** +91 8347223122  
