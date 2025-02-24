@@ -1,135 +1,108 @@
-# Harsh Sharma
+# 🚀 Harsh Sharma | Experienced QA Tester
 
-## 🌟 Experienced Quality Assurance Tester  
-📍 *Nadiad, Gujarat, India*  
+📍 **Nadiad, Gujarat, India**  
+📧 [harshsharmaqa@gmail.com](mailto:harshsharmaqa@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/harshsharmaqa/) | 🌐 [Website](https://cmsminds.com)  
 
 ---
 
-## 🚀 About Me
-🎯 **Experienced Manual Tester** with over **5+ years** of expertise in ensuring website quality and functionality. Passionate about delivering high-quality, error-free software solutions with seamless user experiences. 
+## 🌟 About Me
+
+🎯 **QA Tester with 5+ years of experience** ensuring high-quality, error-free software solutions. Passionate about delivering seamless user experiences through meticulous testing.
+
 ---
-## 💻 Tech Stack & Tools:
 
-  <!-- Row 1 -->
-  
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)   ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white)  
+## 💻 Tech Stack & Tools
 
-  <!-- Row 2 -->
-  ![TestNG](https://img.shields.io/badge/testng-%234B8BF7.svg?style=plastic&logo=testng&logoColor=white) ![Cucumber](https://img.shields.io/badge/cucumber-%23F79C42.svg?style=plastic&logo=cucumber&logoColor=white)  ![JIRA](https://img.shields.io/badge/jira-%230A0A0A.svg?style=plastic&logo=jira&logoColor=white)  ![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=plastic&logo=trello&logoColor=white) ![Zoho](https://img.shields.io/badge/zoho-%230077FF.svg?style=plastic&logo=zoho&logoColor=white)
+### 🛠 **Testing & Automation:**
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white)  ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white)  ![TestNG](https://img.shields.io/badge/testng-%234B8BF7.svg?style=plastic&logo=testng&logoColor=white)  ![Cucumber](https://img.shields.io/badge/cucumber-%23F79C42.svg?style=plastic&logo=cucumber&logoColor=white)
 
-  <!-- Row 3 -->
-  ![Bugzilla](https://img.shields.io/badge/bugzilla-%23E10F00.svg?style=plastic&logo=bugzilla&logoColor=white)  ![Asana](https://img.shields.io/badge/asana-%236A4C93.svg?style=plastic&logo=asana&logoColor=white) ![Monday](https://img.shields.io/badge/monday-%23F5A623.svg?style=plastic&logo=monday&logoColor=white)
+### 🎛 **Project Management & Bug Tracking:**
+![JIRA](https://img.shields.io/badge/jira-%230A0A0A.svg?style=plastic&logo=jira&logoColor=white)  ![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=plastic&logo=trello&logoColor=white)  ![Bugzilla](https://img.shields.io/badge/bugzilla-%23E10F00.svg?style=plastic&logo=bugzilla&logoColor=white)
 
+### 💡 **Programming & Web Technologies:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 
+---
 
-### 🔎 **Key Expertise:**
+## 🔎 Key Expertise
 - 📌 **Test Planning & Execution**
 - 🔄 **Functional & Regression Testing**
 - 🌍 **Cross-Browser & Responsive Testing**
-- 🐞 **Bug Tracking & Reporting (JIRA)**
-- 🔗 **API Testing (Postman) Basic**
+- 🐞 **Bug Tracking & Reporting (JIRA, Trello, Bugzilla)**
+- 🔗 **API Testing (Postman) - Basic**
 - ⚡ **Agile & Scrum Methodologies**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshsharmaqa/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshsharmaqa@gmail.com) 
-
----
-## 📚 Latest Projects & Resources
-
-### [Postman Collections for GoRest API - GitHub Repository](https://github.com/HarshSharmaQA/postman-collections-gorest)
-Check out my **Postman collections** for GoRest API on GitHub.
-
-
 ---
 
+## 💼 Professional Experience
 
+### **Manual Tester - cmsMinds** *(08/2020 - Present)*  
+📍 Ahmedabad, Gujarat, India  
+✅ Conducted end-to-end **website testing** across various industries.  
+✅ Documented test cases and managed defects in **JIRA**.  
+✅ Collaborated with cross-functional teams for smooth project delivery.
 
+### **Manual Tester - GSC Technologies Limited** *(12/2019 - 07/2020)*  
+📍 Ahmedabad, India  
+✅ Performed **functional and regression testing** on web applications.  
+✅ Reported and verified defects to maintain software quality.  
+✅ Worked closely with developers for **issue resolution**.
 
-
-## 💼 **Professional Experience**
-
-### 🎯 **Manual Tester - cmsMinds**  
-📍 Ahmedabad, Gujarat, India | 🏷️ **08/2020 - Present**  
-✅ Ensuring the **quality and performance** of client websites.  
-✅ Identifying and documenting defects in **JIRA**.  
-✅ Collaborating with **cross-functional teams** for seamless delivery.
-
-### 🎯 **Manual Tester - GSC Technologies Limited**  
-📍 Ahmedabad, India | 🏷️ **12/2019 - 07/2020**  
-✅ Conducted **functional and regression testing**.  
-✅ Tracked and resolved issues to maintain high-quality standards.  
-✅ Worked closely with **development teams** for issue resolution.
-
-### 🎯 **Manual Tester - ProT System**  
-📍 Ahmedabad, India | 🏷️ **11/2018 - 04/2019**  
-✅ Performed **manual testing** for medical forms and e-commerce platforms.  
-✅ Ensured **usability and functionality** met the highest standards.  
+### **Manual Tester - ProT System** *(11/2018 - 04/2019)*  
+📍 Ahmedabad, India  
+✅ Conducted **manual testing** for medical and e-commerce platforms.  
+✅ Ensured **UI/UX compliance and functionality**.
 
 ---
 
-## 🔹 **Key Projects**
+## 🔹 Key Projects
 
 ### 🚤 **Boat Rental Plugin for WordPress** *(cmsMinds | 2021 - 2023)*  
-✔️ Ensured **seamless integration** with WooCommerce.  
-✔️ Verified **booking functionalities** for smooth user experience.
+✔️ Verified **WooCommerce integration** and ensured smooth booking functionalities.  
+✔️ Conducted **cross-browser testing** for seamless user experience.
 
 ### 🍔 **Curry Wolf Website** *(cmsMinds)*  
-✔️ Conducted **responsive testing** across multiple devices.  
-✔️ Ensured **user-friendly navigation** and performance.
+✔️ Ensured **mobile responsiveness and accessibility**.  
+✔️ Conducted **UI/UX testing** to enhance navigation.
 
 ---
 
-## 🛠 **Skills**
-
-🎯 **Test Case Design & Execution**  
-📌 **Functional, Regression & Usability Testing**  
-🔗 **API Testing (Postman) Basic**  
-⚡ **Agile & Scrum Methodologies**  
-🌍 **Cross-Browser & Responsive Testing**  
-🐞 **Bug Tracking (JIRA)**  
+## 📜 Certifications
+✅ **Software Testing Fundamentals** *(May 2021)*  
+✅ **Intro to Graphic Design with Photoshop** *(September 2020)*  
 
 ---
 
-## 🎓 **Education**
-
-🎓 **Master of Computer Applications (MCA)**  
-📍 CHARUSAT, Anand *(2017 - 2019)* | 📊 **GPA: 7.82**  
-
-🎓 **BCA in Information Technology**  
-📍 Sardar Patel University *(2014 - 2017)* | 📊 **GPA: 6.08**  
-
-🎓 **HSC - New English School**  
-📍 *(2011 - 2012)* | 🎯 **Percentile: 72.84**  
+## 🎓 Education
+🎓 **Master of Computer Applications (MCA)** – *CHARUSAT, Anand (2017 - 2019)*  
+🎓 **BCA in Information Technology** – *Sardar Patel University (2014 - 2017)*  
+🎓 **HSC - New English School** – *2011 - 2012*  
 
 ---
 
-## 📜 **Certifications**
-
-✅ **Software Testing Fundamentals** - *May 2021*  
-✅ **Intro to Graphic Design with Photoshop** - *September 2020*  
-
----
-
-
-## 📚 **Latest Blogs**
-- [A Comprehensive Guide to HTTP Methods (GET, POST, PUT, DELETE) and Response Codes in POSTMAN](https://harshsharmaqa.online/blog%20detail.html?id=8f9A4ol4cft34QqVPja4)
-- [Getting Started with Sketchware: A Beginner’s Guide to Mobile App Development](https://harshsharmaqa.online/blog%20detail.html?id=AgyAZWRK2muzcXvyCuw3)
-- [Comparison of Manual Testing vs Automation Testing](https://harshsharmaqa.online/blog%20detail.html?id=6JFVCgAhlcUj1xHMTOGm)
-
+## 📚 Latest Blogs
+- 📌 [Guide to HTTP Methods & Response Codes in Postman](https://harshsharmaqa.online/blog%20detail.html?id=8f9A4ol4cft34QqVPja4)
+- 📌 [Manual vs Automation Testing: A Comparison](https://harshsharmaqa.online/blog%20detail.html?id=6JFVCgAhlcUj1xHMTOGm)
+- 📌 [Getting Started with Sketchware](https://harshsharmaqa.online/blog%20detail.html?id=AgyAZWRK2muzcXvyCuw3)
 
 ---
 
-## 📞 **Get in Touch**
+## 📂 Latest Projects & Resources
+📌 **[Postman Collections for GoRest API - GitHub Repository](https://github.com/HarshSharmaQA/postman-collections-gorest)**  
+📌 **[Test Cases Repository](https://github.com/HarshSharmaQA/Testcases)**  
 
+---
+
+## 📞 Get in Touch
 📧 **Email:** [harshsharmaqa@gmail.com](mailto:harshsharmaqa@gmail.com)  
 📱 **Phone:** +91 8347223122  
 🔗 **[LinkedIn](https://www.linkedin.com/in/harshsharmaqa/)**  
+
 ---
-- [Project Repository](https://github.com/HarshSharmaQA/Testcases)
-- [Website](https://cmsminds.com)
----
+
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) 
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)  
 
 ---
 
