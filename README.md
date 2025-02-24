@@ -12,6 +12,11 @@
 
 ---
 
+## 🌐 Website Preview
+[![Website Preview](https://via.placeholder.com/1200x600.png?text=Preview+of+harshsharmaqa.online)](https://harshsharmaqa.online/)
+
+---
+
 ## 💻 Tech Stack & Tools
 
 ### 🛠 **Testing & Automation:**
