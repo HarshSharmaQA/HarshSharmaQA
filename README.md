@@ -77,13 +77,12 @@
 
 ---
 
-## 📞 Get in Touch  
-
-📧 **Email:** [harshsharmaqa@gmail.com](mailto:harshsharmaqa@gmail.com)  
+## 📞 Get in Touch
+📧 **Email:** harshsharmaqa@gmail.com  
 📱 **Phone:** +91 8347223122  
-🔗 **[LinkedIn](https://www.linkedin.com/in/harshsharmaqa/)**  
+🔗 **LinkedIn:** [Your LinkedIn Profile](#)
 
----
+
 
 ## ✍️ Random Dev Quote  
 
