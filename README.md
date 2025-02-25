@@ -2,20 +2,20 @@
 
 📍 **Nadiad, Gujarat, India**  
 📧 [harshsharmaqa@gmail.com](mailto:harshsharmaqa@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/harshsharmaqa/) | 🌐 [Website](https://cmsminds.com)  
+🔗 [LinkedIn](https://linkedin.com/in/harshsharmaqa/) | 🌐 [Website](https://harshsharmaqa.online)  
 
 ---
 
 ## 🌟 About Me
 
-🎯 **QA Tester with 5+ years of experience** in software testing. Passionate about **functional testing, regression testing, cross-browser testing, and API testing**. Ensuring high-quality, bug-free software is my mission.  
+🎯 **QA Tester with 5+ years of experience** in software testing. Passionate about **functional testing, regression testing, cross-browser testing, and API testing basics**. Ensuring high-quality, bug-free software is my mission.  
 
 ---
 
 ## 📝 Sample Test Cases  
 
 📌 **[Sample Test Cases - Google Sheets](https://docs.google.com/spreadsheets/d/1VHDk67OfqaW9FDGzJrlQAw417vg2BBhNUE56PHWSCeE/edit?usp=sharing)**  
-📄 This document contains real-world test cases covering **functional, UI/UX, and API testing scenarios**.  
+📄 This document contains real-world test cases covering **functional, UI/UX testing scenarios**.  
 
 ---
 
@@ -73,3 +73,4 @@
 ---
 
 © 2025 **Harsh Sharma** | *Designed with passion & precision* 🚀  
+
