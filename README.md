@@ -12,6 +12,25 @@
 
 ---
 
+## 🎓 Education
+
+### 🎓 Master of Computer Applications (MCA) - Computer Software Engineering  
+**CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY** • Anand  
+📊 **GPA:** 7.82  
+📅 **Duration:** 01/2017 - 01/2019  
+
+### 🎓 Bachelor of Computer Applications (BCA) - Information Technology  
+**Sardar Patel University**  
+📊 **GPA:** 6.08  
+📅 **Duration:** 05/2014 - 05/2017  
+
+### 🎓 Higher Secondary Certificate (HSC)  
+**New English School**  
+📈 **Percentile:** 72.84  
+📅 **Duration:** 11/2011 - 11/2012  
+
+---
+
 ## 📝 Sample Test Cases  
 
 📌 **[Sample Test Cases - Google Sheets](https://docs.google.com/spreadsheets/d/1VHDk67OfqaW9FDGzJrlQAw417vg2BBhNUE56PHWSCeE/edit?usp=sharing)**  
