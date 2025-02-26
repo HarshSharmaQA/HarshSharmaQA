@@ -83,7 +83,7 @@
 🔗 **LinkedIn:** [Your LinkedIn Profile](#)
 
 ## 📚 TestNG Commands Cheat Sheet:
-- 📌 [https://github.com/HarshSharmaQA/Testng-Cheatsheet/blob/main/README.md]
+- 📌 [TestNG Commands Cheat Sheet](https://github.com/HarshSharmaQA/Testng-Cheatsheet/blob/main/README.md)
 ---
 ## ✍️ Random Dev Quote  
 
