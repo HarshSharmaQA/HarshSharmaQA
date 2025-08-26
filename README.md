@@ -2,7 +2,7 @@
 
 📍 **Nadiad, Gujarat, India**  
 📧 [harshsharmaqa@gmail.com](mailto:harshsharmaqa@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/harshsharmaqa/) | 🌐 [Website](https://harshsharmaqa.online)  
+🔗 [LinkedIn](https://linkedin.com/in/harshsharmaqa/) | 🌐 [Website](https://harshsharmaqa.tech)  
 🌐 [Website for N8N](https://n8ns.netlify.app/)  
 
 ---
