@@ -1,96 +1,133 @@
-# 🚀 Harsh Sharma | Experienced QA Tester
+<div align="center">
 
-📍 **Nadiad, Gujarat, India**  
-📧 [harshsharmaqa@gmail.com](mailto:harshsharmaqa@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/harshsharmaqa/) | 🌐 [Website](https://harshsharmaqa.tech)  
-🌐 [Website for N8N](https://n8ns.netlify.app/)  
+# 👋 Hi, I’m Harsh Sharma
 
----
+### QA Engineer · 5+ Years Experience · Manual • API • Automation Testing
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshsharmaqa/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://harshsharmaqa.info)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshsharmaqa@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=HarshSharmaQA&style=for-the-badge&color=0e75b6&label=Profile+Views)](https://github.com/HarshSharmaQA)
+
+</div>
+
+-----
 
 ## 🌟 About Me
 
-🎯 **QA Tester with 5+ years of experience** in software testing. Passionate about **functional testing, regression testing, cross-browser testing, and API testing basics**. Ensuring high-quality, bug-free software is my mission.  
+> *“Quality is never an accident; it is always the result of intelligent effort.”*
 
----
+I’m a **QA Engineer with 5+ years of professional experience** ensuring high-quality, bug-free software for global clients. I specialise in building robust test strategies that catch defects early, reduce rework costs, and accelerate release timelines.
+
+- 🏢 Currently at **cmsMinds** — delivering quality across 50+ web products for international clients
+- 🧪 Core expertise: **Manual Testing, API Testing & Test Automation**
+- 🤖 Exploring **AI-powered testing tools** and workflow automation with **n8n**
+- 🏠 Based in **Ahmedabad, Gujarat, India**
+- 📬 Reach me: **harshsharmaqa@gmail.com**
+- 🌐 Portfolio: **[harshsharmaqa.info](https://harshsharmaqa.info)**
+
+-----
+
+## 🛠️ Tech Stack & Tools
+
+### Testing & Automation
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-4B8BF7?style=flat-square&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+### Bug Tracking & Project Management
+
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-026AA7?style=flat-square&logo=trello&logoColor=white)
+![Bugzilla](https://img.shields.io/badge/Bugzilla-E10F00?style=flat-square&logoColor=white)
+
+### Methodologies
+
+![Agile](https://img.shields.io/badge/Agile-0175C2?style=flat-square&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logoColor=white)
+![BDD](https://img.shields.io/badge/BDD-23D96C?style=flat-square&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-8A2BE2?style=flat-square&logoColor=white)
+
+-----
+
+## 🔎 Key Expertise
+
+|Area                   |Skills                                                          |
+|-----------------------|----------------------------------------------------------------|
+|📋 **Test Planning**    |Test strategy, test plans, test case design, traceability matrix|
+|🔄 **Testing Types**    |Functional, Regression, Smoke, Sanity, UAT, Exploratory         |
+|🌍 **Cross-Platform**   |Cross-browser, responsive & mobile compatibility testing        |
+|🔗 **API Testing**      |REST API validation, Postman collections, response verification |
+|🐞 **Defect Management**|Bug lifecycle, severity/priority classification, JIRA workflows |
+|⚡ **Agile QA**         |Sprint planning, daily standups, sprint retrospectives          |
+
+-----
+
+## 📂 Projects & Resources
+
+### 🧪 GitHub Repositories
+
+|Repository                                                                                   |Description                                                 |
+|---------------------------------------------------------------------------------------------|------------------------------------------------------------|
+|[🔗 postman-collections-gorest](https://github.com/HarshSharmaQA/postman-collections-gorest)  |Ready-to-use Postman collections for GoRest REST API testing|
+|[📋 Testcases](https://github.com/HarshSharmaQA/Testcases)                                    |Real-world test cases covering functional & UI/UX scenarios |
+|[📄 Testng-Cheatsheet](https://github.com/HarshSharmaQA/Testng-Cheatsheet/blob/main/README.md)|Quick reference guide for TestNG commands & annotations     |
+
+### 📊 Live Resources
+
+|Resource            |Link                                                                                                                         |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------|
+|📊 Sample Test Cases |[View on Google Sheets](https://docs.google.com/spreadsheets/d/1VHDk67OfqaW9FDGzJrlQAw417vg2BBhNUE56PHWSCeE/edit?usp=sharing)|
+|🤖 n8n Automation Hub|[n8ns.netlify.app](https://n8ns.netlify.app/)                                                                                |
+
+-----
+
+## ✍️ Latest Blog Posts
+
+- 📌 [Guide to HTTP Methods & Response Codes in Postman](https://harshsharmaqa.online/blog%20detail.html?id=8f9A4ol4cft34QqVPja4)
+- 📌 [Manual vs Automation Testing: A Comprehensive Comparison](https://harshsharmaqa.online/blog%20detail.html?id=6JFVCgAhlcUj1xHMTOGm)
+
+-----
 
 ## 🎓 Education
 
-### 🎓 Master of Computer Applications (MCA) - Computer Software Engineering  
-**CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY** • Anand  
-📊 **GPA:** 7.82  
-📅 **Duration:** 2017 - 2019  
+|Degree                               |Institution                                  |Year     |Score   |
+|-------------------------------------|---------------------------------------------|---------|--------|
+|🎓 MCA – Computer Software Engineering|CHAROTAR UNIVERSITY OF SCIENCE AND TECHNOLOGY|2017–2019|GPA 7.82|
+|🎓 BCA – Information Technology       |Sardar Patel University                      |2014–2017|GPA 6.08|
+|🎓 HSC                                |New English School                           |2011–2012|72.84%  |
 
-### 🎓 Bachelor of Computer Applications (BCA) - Information Technology  
-**Sardar Patel University**  
-📊 **GPA:** 6.08  
-📅 **Duration:** 2014 - 2017  
+-----
 
-### 🎓 Higher Secondary Certificate (HSC)  
-**New English School**  
-📈 **Percentile:** 72.84  
-📅 **Duration:** 2011 - 2012  
+## 📈 GitHub Stats
 
----
+<div align="center">
 
-## 📝 Sample Test Cases  
+![Harsh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshSharmaQA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-📌 **[Sample Test Cases - Google Sheets](https://docs.google.com/spreadsheets/d/1VHDk67OfqaW9FDGzJrlQAw417vg2BBhNUE56PHWSCeE/edit?usp=sharing)**  
-📄 This document contains real-world test cases covering **functional, UI/UX testing scenarios**.  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSharmaQA&layout=compact&theme=tokyonight&hide_border=true)
 
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=HarshSharmaQA&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-## 💻 Tech Stack & Tools  
+</div>
 
-### 🛠 **Testing & Automation:**  
-![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=plastic&logo=selenium&logoColor=white)  
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white)  
-![TestNG](https://img.shields.io/badge/testng-%234B8BF7.svg?style=plastic&logo=testng&logoColor=white)  
-![Cucumber](https://img.shields.io/badge/cucumber-%23F79C42.svg?style=plastic&logo=cucumber&logoColor=white)  
+-----
 
-### 🎛 **Project Management & Bug Tracking:**  
-![JIRA](https://img.shields.io/badge/jira-%230A0A0A.svg?style=plastic&logo=jira&logoColor=white)  
-![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=plastic&logo=trello&logoColor=white)  
-![Bugzilla](https://img.shields.io/badge/bugzilla-%23E10F00.svg?style=plastic&logo=bugzilla&logoColor=white)  
+## 🤝 Let’s Connect
 
----
+<div align="center">
 
-## 🔎 Key Expertise  
-- ✅ **Test Planning & Execution**  
-- 🔄 **Functional & Regression Testing**  
-- 🌍 **Cross-Browser & Responsive Testing**  
-- 🐞 **Bug Tracking & Reporting** (JIRA, Trello, Bugzilla)  
-- 🔗 **API Testing (Postman, REST APIs)**  
-- ⚡ **Agile & Scrum Methodologies**  
+🟢 **Open to QA Engineer / SDET / Test Analyst opportunities**
 
----
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshsharmaqa/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshsharmaqa@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://harshsharmaqa.info)
 
-## 📂 Latest Projects & Resources  
+-----
 
-📌 **[Postman Collections for GoRest API - GitHub Repository](https://github.com/HarshSharmaQA/postman-collections-gorest)**  
-📌 **[Test Cases Repository](https://github.com/HarshSharmaQA/Testcases)**  
+*© 2026 Harsh Sharma · Built with precision, tested with passion 🚀*
 
----
-
-## 📚 Latest Blogs  
-
-- 📌 [Guide to HTTP Methods & Response Codes in Postman](https://harshsharmaqa.online/blog%20detail.html?id=8f9A4ol4cft34QqVPja4)  
-- 📌 [Manual vs Automation Testing: A Comparison](https://harshsharmaqa.online/blog%20detail.html?id=6JFVCgAhlcUj1xHMTOGm)  
-
----
-
-## 📞 Get in Touch
-📧 **Email:** harshsharmaqa@gmail.com  
-📱 **Phone:** +91 8347223122  
-🔗 **LinkedIn:** [Your LinkedIn Profile](#)
-
-## 📂 TestNG Commands Cheat Sheet:
-- 📌 [TestNG Commands Cheat Sheet](https://github.com/HarshSharmaQA/Testng-Cheatsheet/blob/main/README.md)
----
-## ✍️ Random Dev Quote  
-
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)  
-
----
-
-© 2025 **Harsh Sharma** | *Designed with passion & precision* 🚀  
-
+</div>
